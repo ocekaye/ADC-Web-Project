@@ -21,7 +21,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		margin: 0px;
 	}
 	h1 {
-		color: #fff;
+		color: #777;
 		background-color: transparent;
 		font-size: 30px;
 		font-weight: normal;
